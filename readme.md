@@ -13,11 +13,11 @@
 [<img align="left" alt="Erik Ruotsalainen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="erikruotsalainen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+<br />
 📭 Email me at erik.ruotsalainen@yahoo.com  or  erkkiruots@gmail.com
 
 
-<br />
-<br />
+
 
 
 [instagram]: https://www.instagram.com/erikruotsalainen/
