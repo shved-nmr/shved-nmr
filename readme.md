@@ -3,7 +3,7 @@
 ## Trying to become the best version of myself - every day.
 
 - 👨‍🎓 Going to make Metropolia UAS my <i>alma mater<i> soon!
-- 🌱 I’m currently learning everything I can lay my hands on🤣
+- 🔬 Aspiring Data Analyst
 - 🔭 In everlasting search for new opportunities
 - 🥅 2021 Goal: Do as much coding as I possibly can!
 - ⚡ Fun fact: I am a football referee
