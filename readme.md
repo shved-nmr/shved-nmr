@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything I can lay my hands on🤣
 - 🔭 In everlasting search for new opportunities
 - 🥅 2021 Goal: Do as much coding as I possibly can!
-- ⚡ Fun fact: I am a football ref
+- ⚡ Fun fact: I am a football referee
 
 ### Connect with me:
 
