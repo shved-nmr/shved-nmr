@@ -1,0 +1,23 @@
+﻿### Hi there, I'm Erik - aka Shved 👋
+
+## Trying to become the best version of myself - every day. Devoted programmer.
+
+- 👨‍🎓 Going to make Metropolia UAS my <i>alma mater<i> soon!
+- 🌱 I’m currently learning everything I can lay my hands on🤣
+- 🔭 In everlasting search for new opportunities
+- 🥅 2021 Goal: Do as much coding as I possibly can!
+- ⚡ Fun fact: I am a football ref
+
+### Connect with me:
+
+[<img align="left" alt="Erik Ruotsalainen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="erikruotsalainen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+📭 Email me at erik.ruotsalainen@yahoo.com  or  erkkiruots@gmail.com
+
+
+<br />
+<br />
+
+
+[instagram]: https://www.instagram.com/erikruotsalainen/
+[linkedin]: https://www.linkedin.com/in/erik-ruotsalainen-67343a153/
