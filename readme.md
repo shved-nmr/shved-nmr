@@ -1,6 +1,6 @@
 ﻿### Hi there, I'm Erik - aka Shved 👋
 
-## Trying to become the best version of myself - every day.😼💪
+## Trying to become the best version of myself - every day.😼
 
 - 👨‍🎓 Going to make Metropolia UAS my <i>alma mater<i> soon!
 - 🔬 Aspiring Data Analyst
