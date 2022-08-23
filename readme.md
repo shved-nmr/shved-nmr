@@ -1,4 +1,4 @@
-﻿### Hi there, I'm Erik - aka Shved 👋
+﻿### Hi there, I'm Erik - but my friends call me Shved 👋
 
 ## Trying to become the best version of myself - every day.😼
 
