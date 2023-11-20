@@ -2,7 +2,7 @@
 
 ## Trying to become the best version of myself - every day.😼
 
-- 👨‍🎓 Going to make Metropolia UAS my <i>alma mater<i> soon!
+- 👨‍🎓 Metropolia UAS graduate!
 - 🔬 Aspiring Data Analyst
 - 🔭 In everlasting search for new opportunities
 - 🥅 2021 Goal: Do as much coding as I possibly can!
